@@ -1,8 +1,8 @@
 class Cli < Formula
   desc "commandline client for Tozny e3db"
   homepage "https://github.com/tozny/e3db"
-  url "https://github.com/tozny/homebrew-e3db/releases/download/2.0.0-rc1/e3db-2.0.0-rc1.tar.gz"
-  sha256 "e29a6112fd9e5e85d99d1288a09211ba5575157cf826be260592f012bd615b2f"
+  url "https://github.com/tozny/homebrew-e3db/releases/download/2.0.0/e3db-2.0.0.tar.gz"
+  sha256 "5bc53ab7cd31edcc9d75a9bc52ff09660aea9c0b4f921394c474a24127096190"
 
   bottle :unneeded
 
